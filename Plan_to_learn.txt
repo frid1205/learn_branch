@@ -1,1 +1,15 @@
+Plan what to learn in 2020 and what next?
+- complete ci/cd integration learning
+- complete ios mobile appium set up
+- complete learning performance testing with all platform tool
+- complete learning cmap
+- gain certificate of cmap
+- complete learning istqb 
+- gain certificate of istqb
+- learning about pentest
+- learning about ethical hacker
+- learning about FE javascript, react, cms
+- learning about BE nodejs, pyton so on
+- get another job
 
+Estimation of completing these task 1 year
